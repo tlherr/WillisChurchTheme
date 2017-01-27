@@ -1,0 +1,17 @@
+
+#desktop-menu {
+  margin-top: 20px;
+
+  ul.menu li {
+    display:inline-block;
+    padding:0.5em 0.5em;
+
+    a {
+      text-transform: uppercase;
+      font-weight: 600;
+      font-size: 1em;
+      color: #222;
+      font-family: "Open Sans", sans-serif, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+  }
+}
